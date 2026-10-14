@@ -1,7 +1,6 @@
 import sys
 import threading
 import customtkinter as ctk
-
 from llm_engine import ask_llm
 from tts_engine import speak_text
 from stt_engine import listen_microphone

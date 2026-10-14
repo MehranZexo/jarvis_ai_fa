@@ -69,5 +69,5 @@ def speak(text: str):
 speak_text = speak
 
 if __name__ == "__main__":
-    speak_text("Hello Mahsa! Testing bilingual speech engine.")
-    speak("سلام مهسا جان، حالا من به هر دو زبان مسلط هستم.")
+    speak_text("Hello mehran! Testing bilingual speech engine.")
+    speak("سلام مهران جان، حالا من به هر دو زبان مسلط هستم.")
